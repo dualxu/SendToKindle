@@ -1,0 +1,24 @@
+2019-12-19 08:51:42.8476|Info|Send2Kindle-->sendmail
+2019-12-19 08:53:23.4533|Info|Send2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+2019-12-19 08:53:39.3631|Info|Send2Kindle-->sendmail
+2019-12-19 08:55:19.3790|Info|Send2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+2019-12-19 08:55:28.4786|Info|Send2Kindle-->sendmail
+2019-12-19 08:57:08.4810|Info|Send2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+2019-12-19 09:44:09.7683|Info|Send2Kindle-->sendmail
+2019-12-19 09:44:35.4432|Info|Send2Kindle-->sendmail send fail, error: 发送邮件失败。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+2019-12-19 09:45:06.9121|Info|Send2Kindle-->sendmail
+2019-12-19 09:46:46.9298|Info|Send2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+2019-12-19 09:46:52.9481|Info|Send2Kindle-->sendmail
+2019-12-19 09:48:32.9503|Info|Send2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306

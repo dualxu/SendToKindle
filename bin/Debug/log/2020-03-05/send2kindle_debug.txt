@@ -1,0 +1,6 @@
+2020-03-05 17:28:19.6381|Info|Send2Kindle-->sendmail
+2020-03-05 17:30:00.4632|Info|Send2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+2020-03-05 17:30:57.6576|Info|Send2Kindle-->sendmail
+2020-03-05 17:31:14.9094|Info|Send2Kindle-->sendmail send ok

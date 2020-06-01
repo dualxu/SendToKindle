@@ -1,0 +1,26 @@
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\bin\Debug\SendToKindle.exe.config
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\bin\Debug\SendToKindle.exe
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\bin\Debug\SendToKindle.pdb
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.FormMain.resources
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.Properties.Resources.resources
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.csproj.GenerateResource.cache
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.csproj.CoreCompileInputs.cache
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.exe
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.pdb
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\bin\Debug\NLog.dll
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\bin\Debug\NLog.xml
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.csproj.CopyComplete
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\bin\Debug\SendToKindle.exe.config
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\bin\Debug\SendToKindle.exe
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\bin\Debug\SendToKindle.pdb
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\bin\Debug\NLog.dll
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\bin\Debug\NLog.xml
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.FormMain.resources
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.Properties.Resources.resources
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.csproj.GenerateResource.cache
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.csproj.CoreCompileInputs.cache
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.csproj.CopyComplete
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.exe
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.pdb
+D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.csprojAssemblyReference.cache
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.FormServerSetting.resources

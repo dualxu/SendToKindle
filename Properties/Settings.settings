@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="SendToKindle.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="KindleBindMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">xxx@kindle.com;xxx@kindle.cn</Value>
+    </Setting>
+    <Setting Name="KindlePushMail" Type="System.String" Scope="User">
+      <Value Profile="(Default)">someone@someplace.com</Value>
+    </Setting>
+    <Setting Name="KindlePushMailPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">12345678</Value>
+    </Setting>
+    <Setting Name="KindlePushSmtpServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">smtp.exmail.qq.com</Value>
+    </Setting>
+    <Setting Name="KindlePushSmtpServerPort" Type="System.String" Scope="User">
+      <Value Profile="(Default)">587</Value>
+    </Setting>
+    <Setting Name="KindlePushIsUseSSL" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

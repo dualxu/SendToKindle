@@ -1,0 +1,24 @@
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail send fail, error: 发送邮件失败。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail send fail, error: 操作已超时。
+   在 System.Net.Mail.SmtpClient.Send(MailMessage message)
+   在 SendToKindle.FormMain.sendmail(String mailfile, Boolean isUseSsl) 位置 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\FormMain.cs:行号 306

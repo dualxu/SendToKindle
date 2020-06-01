@@ -1,0 +1,2 @@
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail
+Control.OnClick => FormMain.btnSend_Click => FormMain.sendmailSend2Kindle-->sendmail send ok
