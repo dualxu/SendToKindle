@@ -24,3 +24,4 @@ D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\De
 D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.pdb
 D:\WorkSpace\Work2019\开发练习\SendToKindle\SendToKindle\SendToKindle\obj\Debug\SendToKindle.csprojAssemblyReference.cache
 E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.FormServerSetting.resources
+E:\documents\kindle paperwhite\SendToKindle\SendToKindle\obj\Debug\SendToKindle.csprojAssemblyReference.cache
