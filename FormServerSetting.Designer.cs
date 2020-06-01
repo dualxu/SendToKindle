@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(FormServerSetting));
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.chkBoxIsUseSSL = new System.Windows.Forms.CheckBox();
             this.txtBoxPushSmtpServerPort = new System.Windows.Forms.TextBox();
@@ -137,6 +138,7 @@
             this.Controls.Add(this.btnSend);
             this.Controls.Add(this.groupBox1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog;
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.MaximizeBox = false;
             this.MinimizeBox = false;
             this.Name = "FormServerSetting";
